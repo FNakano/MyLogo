@@ -23,4 +23,8 @@ Também assisiti a um vídeo explicando como usar curvas de bézier no Inkscape:
 
 Os resultados são os arquivos /curvas/bezier-logo* . Um exemplo está no topo da página.
 
+Em 19 de junho fiz outros testes, mexendo proporções e posições, não gostei do resultado. Acho que darei o trabalho como concluído nesta versão.
 
+Na minha opinião, SVG é um formato complicado pois, por exemplo, para preencher uma área cria caminhos e contornos, às vezes, ligeiramente diferentes dos já existentes para, então preencher. Isto cria contornos, às vezes, indesejáveis. A GUI também fica complicada pois preencher uma área implica em reconhecer que a área já foi delimitada por um contorno e trocar o preenchimento OU criar um novo contorno para preencher. Errar as alternativas gera resultados esquisitos (na primeira, criar um novo quando já existe algum acaba criando objetos em demasia, na segunda, preencher, inadequadamente, um contorno já existente). Não pretendo trabalhar com esse formato em uma GUI novamente.
+
+ 
