@@ -1,5 +1,4 @@
-![](./curvas/bezier-logo-contornos.png)
-
+![](./curvas/bezier-logo-proporcao-original-passo3.png)
 
 # MyLogo
 
@@ -21,10 +20,11 @@ Devido aos problemas, resolvi desenhar o logo direto no Inkscape usando curvas d
 
 Também assisiti a um vídeo explicando como usar curvas de bézier no Inkscape: https://www.google.com/search?channel=fs&client=ubuntu&q=inkscape+draw+bezier+curves#fpstate=ive&vld=cid:5a1f3f4f,vid:AAgWhnf_p3k.
 
-Os resultados são os arquivos /curvas/bezier-logo* . Um exemplo está no topo da página.
+Os resultados são os arquivos /curvas/bezier-logo* . ~~Um exemplo está no topo da página.~~
 
 Em 19 de junho fiz outros testes, mexendo proporções e posições, não gostei do resultado. Acho que darei o trabalho como concluído nesta versão.
 
 Na minha opinião, SVG é um formato complicado pois, por exemplo, para preencher uma área cria caminhos e contornos, às vezes, ligeiramente diferentes dos já existentes para, então preencher. Isto cria contornos, às vezes, indesejáveis. A GUI também fica complicada pois preencher uma área implica em reconhecer que a área já foi delimitada por um contorno e trocar o preenchimento OU criar um novo contorno para preencher. Errar as alternativas gera resultados esquisitos (na primeira, criar um novo quando já existe algum acaba criando objetos em demasia, na segunda, preencher, inadequadamente, um contorno já existente). Não pretendo trabalhar com esse formato em uma GUI novamente.
 
- 
+Em 27 de setembro resolvi voltar e mexer nas proporções das partes para ficar mais perto do original, que acho mais bonito. O resultado é apresentado no topo da página. Não consegui fazer o negativo com a característica que eu quero: sem pixels brancos ou contornos ou outros elementos que não desejo.
+
