@@ -28,3 +28,4 @@ Na minha opinião, SVG é um formato complicado pois, por exemplo, para preenche
 
 Em 27 de setembro resolvi voltar e mexer nas proporções das partes para ficar mais perto do original, que acho mais bonito. O resultado é apresentado no topo da página. Não consegui fazer o negativo com a característica que eu quero: sem pixels brancos ou contornos ou outros elementos que não desejo.
 
+Em 03 de outubro: agora gostei. Consegui fazer o [logo](./curvas/bezier-logo-proporcao-original-passo3.png), o [logo negativo](./curvas/bezier-logo-proporcao-original-passo3-negativo.svg) e o [logo para github](./curvas/bezier-logo-proporcao-original-contornoLargoParaGithub.svg).
