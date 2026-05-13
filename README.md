@@ -29,3 +29,7 @@ Na minha opinião, SVG é um formato complicado pois, por exemplo, para preenche
 Em 27 de setembro resolvi voltar e mexer nas proporções das partes para ficar mais perto do original, que acho mais bonito. O resultado é apresentado no topo da página. Não consegui fazer o negativo com a característica que eu quero: sem pixels brancos ou contornos ou outros elementos que não desejo.
 
 Em 03 de outubro: agora gostei. Consegui fazer o [logo](./curvas/bezier-logo-proporcao-original-passo3.png), o [logo negativo](./curvas/bezier-logo-proporcao-original-passo3-negativo.svg) e o [logo para github](./curvas/bezier-logo-proporcao-original-contornoLargoParaGithub.svg).
+
+2026-05-13: Faz uns meses eu queria fazer o logo oval com lugar para por nome. Hoje consegui tempo para fazer (logo-oval.svg
+). Resolvi instalar um tipo de letra novo. Os tipos podem ser instalados locais a um usuário na pasta `~/.fonts` e depois reiniciar o gerenciador de fonts com o comando `fc-cache -f -v` (https://dev.to/abstractmusa/installing-fonts-on-ubuntu-197p)
+
